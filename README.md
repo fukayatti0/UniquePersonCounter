@@ -1,6 +1,6 @@
 # 🎯 UniquePersonCounter
 
-[![Open In Colab](https://colab.research.google.com/github/fukayatti0/UniquePersonCounter/blob/main/UniquePersonCounter.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fukayatti0/UniquePersonCounter/blob/main/UniquePersonCounter.ipynb)
 
 ## 📝 概要
 動画内の静止している人物を検出・カウントするスマートな分析ツールです。AI技術（YOLOv8 & DeepSort）を活用し、高精度な人物追跡と個人識別を実現します。
